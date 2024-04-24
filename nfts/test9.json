@@ -1,0 +1,20 @@
+{
+  "is_normalized": true,
+  "name": "test9.popns.eth",
+  "image": "https://storage.googleapis.com/ensimage/test9ecc.png",
+  "description": "The ECC Domain test9, which is also the ECC subdomain test9.ecc.eth.",
+  "attributes": [
+    {
+      "trait_type": "Length",
+      "display_type": "number",
+      "value": 5
+    },
+    {
+      "trait_type": "Data Type",
+      "value": "Alphabets"
+    }
+  ],
+  "name_length": 5,
+  "url": "https://app.ens.domains/name/test9.popns.eth",
+  "version": 0
+}
